@@ -1,0 +1,42 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pydantic==1.10.8
+python-dotenv==1.0.0
+sqlalchemy==2.0.15
+# Replacing PostgreSQL with SQLite
+# psycopg2-binary==2.9.6
+# Optional for time-series data
+# influxdb-client==1.36.1
+pandas==2.0.2
+numpy==1.24.3
+# The following packages are optional for the basic setup
+# tensorflow==2.12.0
+scikit-learn==1.2.2
+# geopandas==0.13.0
+# rasterio==1.3.7
+# pyproj==3.5.0
+matplotlib==3.7.1
+seaborn==0.12.2
+requests==2.31.0
+python-multipart==0.0.6
+aiofiles==23.1.0
+jinja2==3.1.2
+email-validator==2.0.0.post2
+PyJWT==2.7.0
+passlib==1.7.4
+bcrypt==4.0.1
+python-jose==3.3.0
+# geopy==2.3.0
+# shapely==2.0.1
+# folium==0.14.0
+# prophet==1.1.4
+# xgboost==1.7.5
+# tensorflow-hub==0.14.0
+# boto3==1.26.153
+# aiokafka==0.8.1
+# paho-mqtt==2.2.1
+# Firebase for real-time updates
+firebase-admin==6.2.0
+# Additional packages for real data sources
+geopy==2.3.0
+cachetools==5.3.0 
