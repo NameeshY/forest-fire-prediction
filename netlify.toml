@@ -1,10 +1,14 @@
 [build]
   base = "frontend"
   publish = "build"
-  command = "npm run build"
+  command = "npm run build:netlify"
 
 [build.environment]
   NODE_VERSION = "18"
+  CI = "false"
+  REACT_APP_API_URL = "https://forest-fire-backend.herokuapp.com/api/v1"
+  REACT_APP_LEAFLET_TILE_URL = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+  REACT_APP_LEAFLET_ATTRIBUTION = "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors"
 
 # This redirect ensures that all routes are handled by the index.html file
 # This is important for single-page applications with client-side routing
