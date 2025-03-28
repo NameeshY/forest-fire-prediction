@@ -25,7 +25,17 @@ Dashboard:
 <img width="1763" alt="Screenshot 2025-03-28 at 5 20 50 PM" src="https://github.com/user-attachments/assets/22e434b0-da40-4af9-a86c-f69c5fbd2bd1" />
 
 
+Fire Risk Map with spread predictor:
+<img width="1782" alt="Screenshot 2025-03-28 at 5 21 47 PM" src="https://github.com/user-attachments/assets/adcf8904-c5ce-440d-881f-cb39f4d4bcbd" />
+<img width="1458" alt="Screenshot 2025-03-28 at 5 22 27 PM" src="https://github.com/user-attachments/assets/109d1c48-a2b9-43b2-a36e-aec02bce6bd1" />
 
+
+Alerts:
+<img width="1781" alt="Screenshot 2025-03-28 at 5 22 54 PM" src="https://github.com/user-attachments/assets/1f4b6ed0-c532-4ff3-9fe6-6030dbf9e076" />
+
+
+Profile Page:
+<img width="1781" alt="Screenshot 2025-03-28 at 5 23 10 PM" src="https://github.com/user-attachments/assets/c8891142-d4c7-46f6-9063-0573f9d7e9d8" />
 
 ## Tech Stack
 
