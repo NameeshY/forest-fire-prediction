@@ -21,6 +21,12 @@ This system analyzes weather conditions, vegetation dryness, and historical fire
 - Historical Fire Analysis to view past fire incidents and patterns
 - User Customization for monitored regions and alert thresholds
 
+Dashboard:
+<img width="1763" alt="Screenshot 2025-03-28 at 5 20 50 PM" src="https://github.com/user-attachments/assets/22e434b0-da40-4af9-a86c-f69c5fbd2bd1" />
+
+
+
+
 ## Tech Stack
 
 ### Frontend
